@@ -1,4 +1,4 @@
-Story: As a System designer, I want an independent system which can output a stacking pattern for a given set of polyhedrons on a given polygon surface. So that i can create multiple interfaces and Implementations on top of it and use it for any shape and restriction. 
+Story: As a System developer, I want an independent system which can output a stacking pattern for a given set of polyhedrons on a given polygon surface. So that i can create multiple interfaces and Implementations on top of it and use it for any shape and restriction. 
 Acceptance Criteria: I want the output stacking pattern to have following properties 
 1. Lower Centre of Mass
 2. Centre of gravity near to the centre the centre 
