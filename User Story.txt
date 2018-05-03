@@ -1,10 +1,12 @@
-Story: As a System developer, I want an independent system which can output a stacking pattern for a given set of polyhedrons on a given polygon surface. So that i can create multiple interfaces and Implementations on top of it and use it for any shape and restriction. 
-Acceptance Criteria: I want the output stacking pattern to have following properties 
-1. Lower Centre of Mass
-2. Centre of gravity near to the centre the centre 
-3. Highest Volume utilization
-User should be able to control all the variables through input and the output pattern should be given within 3 Seconds.
+Story : 
+As a maniac, I want an indipendent system which can output a stacking patten for a given set of ployhedrons on a given ploygon serface. So that i can create multiple interfaces and implementations on top of it and use it for any shape and ristriction. 
 
+Acceptance Criteria: 
+I want the output stacking pattern to have following properties 
+1. Lower Center of Mass
+2. Center of gravity near to the center the center 
+3. Highest Volume utilization
+User should be able to control all the variables through input and the output patten should be given within 3 Seconds.
 
 
 
